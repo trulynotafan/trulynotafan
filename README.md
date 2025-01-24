@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CF7DE&width=435&lines=Hi%2C+I'm+Afaan;Welcome+to+my+GitHub+profile!;Below+are+my+stats%3A)](https://git.io/typing-svg)
 
-My name is **Afaan**, and I'm an 18-year-old aspiring developer passionate about **JavaScript** and **web development**. Welcome to my GitHub profile!
 
----
 
 ## 🔧 Technologies & Tools
 Here are some of the tools and technologies I work with:
