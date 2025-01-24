@@ -25,7 +25,7 @@ Here are some of the tools and technologies I work with:
 
 
 ## 🔝 Top Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trulynotafan&layout=compact&theme=radical)]
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trulynotafan&layout=compact&theme=radical)
 
 ---
 
