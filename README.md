@@ -32,4 +32,4 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-That's it for now! I'll soon be posting new projects, ideas for contributions, and resources for learning and growth. 🚀
+That's it for now! I'll soon be posting new projects, ideas for contributions, and resources for learning and growth. 
