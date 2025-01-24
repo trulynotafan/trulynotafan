@@ -21,11 +21,11 @@ Here are some of the tools and technologies I work with:
 ---
 
 ## 📊 GitHub Stats
-(![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=trulynotafan&cache_seconds=1800)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=trulynotafan&cache_seconds=1800)
 
 
 ## 🔝 Top Languages
-(![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trulynotafan&layout=compact&theme=radical)](https://github.com/trulynotafan)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trulynotafan&layout=compact&theme=radical)]
 
 ---
 
