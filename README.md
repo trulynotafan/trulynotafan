@@ -12,5 +12,6 @@
 </div>
 
 ---
+![](https://komarev.com/ghpvc/?username=trulynptafan)
 
  
