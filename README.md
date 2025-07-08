@@ -1,7 +1,7 @@
 # Hi, I'm Afaan  
 
 ### GitHub Achievements  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=trulynotafan&theme=onedark&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=trulynotafan&theme=onedark)
 
 ---
 
